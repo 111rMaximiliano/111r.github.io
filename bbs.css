@@ -1,0 +1,40 @@
+body {
+  background-image: url("/20190121145035c060827a1f.gif");
+  background-color: rgb(255, 115, 0);
+  font-family: "Covered By Your Grace", cursive;
+  color: rgba(0, 0, 0, 0.756);
+  font-size: 16px;
+  background-size: cover;
+}
+
+.container-fluid {
+  margin-top: -15px;
+  padding-top: 14px;
+  display: block;
+  position: fixed;
+  background: rgba(27, 20, 18, 0.094);
+  width: 50%;
+  text-align: center;
+  margin-left: 20%;
+}
+.btn {
+  background: rgba(255, 68, 0, 0.075);
+  transition: 2s;
+  color: rgb(255, 115, 0);
+  border-radius: 25%;
+  width: 80px;
+  cursor: pointer;
+  font-family: "Covered By Your Grace", cursive;
+}
+.btn:hover {
+  background: rgba(0, 0, 0, 0.483);
+  color: yellow;
+}
+
+.block {
+  margin-top: 70px;
+}
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
